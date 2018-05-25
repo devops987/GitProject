@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ssh
 
 #### Table of Contents
@@ -87,3 +88,7 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+=======
+# GitProject
+Example project for git
+>>>>>>> f8efb4afb72728b298aa46a26ecefdb5da1b6f16
